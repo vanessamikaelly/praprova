@@ -1,0 +1,12 @@
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\bin\Debug\praprova.exe.config
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\bin\Debug\praprova.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\bin\Debug\praprova.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.csproj.SuggestedBindingRedirects.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.menu.resources
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.Properties.Resources.resources
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.csproj.GenerateResource.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\praprova\praprova\obj\Debug\praprova.Divisao.resources
