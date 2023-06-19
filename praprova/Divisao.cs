@@ -28,7 +28,7 @@ namespace praprova
                 int c = a / b;
 
                 MessageBox.Show(c.ToString());
-
+                
 
             }
             catch(Exception ex)

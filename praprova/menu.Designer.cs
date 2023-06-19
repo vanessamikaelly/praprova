@@ -36,9 +36,9 @@
             // 
             // bt_divisao
             // 
-            this.bt_divisao.Location = new System.Drawing.Point(267, 164);
+            this.bt_divisao.Location = new System.Drawing.Point(287, 188);
             this.bt_divisao.Name = "bt_divisao";
-            this.bt_divisao.Size = new System.Drawing.Size(138, 62);
+            this.bt_divisao.Size = new System.Drawing.Size(96, 32);
             this.bt_divisao.TabIndex = 0;
             this.bt_divisao.Text = "Divisao";
             this.bt_divisao.UseVisualStyleBackColor = true;
@@ -47,7 +47,7 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(515, 80);
+            this.radioButton1.Location = new System.Drawing.Point(292, 58);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(90, 20);
             this.radioButton1.TabIndex = 1;
@@ -58,7 +58,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(515, 131);
+            this.radioButton2.Location = new System.Drawing.Point(292, 112);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(91, 20);
             this.radioButton2.TabIndex = 2;
@@ -68,7 +68,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(538, 164);
+            this.button1.Location = new System.Drawing.Point(292, 281);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 3;
